@@ -1,0 +1,22 @@
+{
+  "FileVersion": 2,
+  "Id": "ed432dce-f73f-4527-b693-fd6f7dff9b99",
+  "Items": [
+    {
+      "Id": "8ea8b56a-772d-4c5e-bfe6-ef24cd0d965e",
+      "Command": "Stations1.txt"
+    },
+    {
+      "Id": "e0f537db-50d4-4342-934e-271b84ed6452",
+      "Command": "Stations2.txt"
+    },
+    {
+      "Id": "ab620d27-8e42-408e-a248-c6e1653805e2",
+      "Command": "CustomerOrders.txt"
+    },
+    {
+      "Id": "6b5c976d-ec60-44d7-b7a7-66b498a25e21",
+      "Command": "AssemblyLine.txt"
+    }
+  ]
+}

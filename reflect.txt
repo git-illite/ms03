@@ -1,0 +1,14 @@
+//==============================================
+// Name:           Abdalla Aden
+// Student Number: 021720057
+// Email:          aaaden1@myseneca.ca
+// Section:        NFF
+// Date:           Nov 28 2021
+//==============================================
+// MS 03
+//==============================================
+
+
+This project was incredibly difficult to debug as there are so many loops and iterations to go through, if I didnt complete a certain part correctly and have many testers it would have taken even longer. 
+I did enjoy the complexity of the project and how much easier stl libraries and algorithms have made things, what I mean by easier is mostly about their efficiency and not how difficult they are to use.
+Im still however quite slow at coding and it sometimes takes me hours just to get things going, I'll have to practice much more on my own to improve my quality and speed. Thank you for the semester.
